@@ -1,0 +1,10 @@
+torch
+diffusers
+pytorch-lightning
+transformers
+bitsandbytes
+tensorboard
+matplotlib
+scipy
+SimpleITK
+PyYAML
